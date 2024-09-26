@@ -8,10 +8,10 @@ body {
 
 .masodik {
     margin-left: 10px;
-    border-top: 2px dotted black;
-    border-bottom: 2px dashed blue;
-    border-left: 2px solid yellow;
-    border-right: 2px double darkgreen;
+    border-top: 3px dotted black;
+    border-bottom: 3px dashed blue;
+    border-left: 3px solid yellow;
+    border-right: 3px double darkgreen;
 }
 
 .harmadik {
@@ -22,6 +22,6 @@ body {
 .negyedik {
     background-image: url(kep.jpg);
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
 }
