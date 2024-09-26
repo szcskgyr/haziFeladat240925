@@ -1,0 +1,27 @@
+body {
+    background-color: lightgreen;
+}
+
+.elsoutolso {
+    background-color: yellow;
+}
+
+.masodik {
+    margin-left: 10px;
+    border-top: 2px dotted black;
+    border-bottom: 2px dashed blue;
+    border-left: 2px solid yellow;
+    border-right: 2px double darkgreen;
+}
+
+.harmadik {
+    border: 3px dashed red;
+    padding: 15px;
+}
+
+.negyedik {
+    background-image: url(kep.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}

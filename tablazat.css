@@ -1,0 +1,23 @@
+table, caption {
+        background-color: aqua;
+}
+
+table {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        border-spacing: 0px;
+}
+
+td {
+        border: 1px solid black;
+}
+
+.zold {
+        background-color: green;
+}
+
+.fekete {
+        color: white;
+        background-color: black;
+}
