@@ -20,7 +20,7 @@ body {
 }
 
 .negyedik {
-    background-image: url(kep.jpg);
+    background-image: url("kep.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
